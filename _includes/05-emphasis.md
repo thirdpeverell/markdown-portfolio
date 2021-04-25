@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Programming
+* _PHP_ (__Laravel__, __CodeIgniter__)
+* _Javascript_ (__Express__, __React__)
